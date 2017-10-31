@@ -1,0 +1,8 @@
+﻿  main_project6.cpp
+  STACK.cpp
+  QUEUE.cpp
+f:\vs15projects\u201514496_6\u201514496_6\queue.cpp(49): warning C4805: “==”: 在操作中将类型“bool”与类型“int”混合不安全
+  正在生成代码...
+f:\vs15projects\u201514496_6\u201514496_6\queue.cpp(46): warning C4715: “QUEUE::operator[]”: 不是所有的控件路径都返回值
+  U201514496_6.vcxproj -> F:\VS15projects\U201514496_6\Debug\U201514496_6.exe
+  U201514496_6.vcxproj -> F:\VS15projects\U201514496_6\Debug\U201514496_6.pdb (Partial PDB)
